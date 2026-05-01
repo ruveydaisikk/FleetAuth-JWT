@@ -1,4 +1,4 @@
-![Uploading 1.JPG…]()
+
 # FleetAuth — JWT Auth API
 
 ASP.NET Core 9 ile geliştirilmiş, çok rol destekli JWT kimlik doğrulama sistemi.
@@ -54,3 +54,17 @@ Swagger: `http://localhost:5123/swagger`
 - ✅ IP bazlı rate limiting (login: 10 dakikada 5 istek)
 - ✅ Audit log (kullanıcı, endpoint, zaman damgası)
 - ✅ 401 token yok/geçersiz, 403 yetersiz rol
+
+## Ekran Görüntüleri
+
+### Register - 200 Başarılı
+![register](1.JPG)
+
+### Login - Token Dönüşü
+![login](2.JPG)
+
+### Token Olmadan - 401 Unauthorized
+![401](3.JPG)
+
+### Swagger - Endpoint Listesi
+![swagger](4.JPG)
