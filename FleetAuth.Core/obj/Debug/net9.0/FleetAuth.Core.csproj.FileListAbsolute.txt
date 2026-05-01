@@ -1,0 +1,13 @@
+C:\Users\vahde\FleetAuth\FleetAuth.Core\obj\Debug\net9.0\FleetAuth.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vahde\FleetAuth\FleetAuth.Core\obj\Debug\net9.0\FleetAuth.Core.AssemblyInfoInputs.cache
+C:\Users\vahde\FleetAuth\FleetAuth.Core\obj\Debug\net9.0\FleetAuth.Core.AssemblyInfo.cs
+C:\Users\vahde\FleetAuth\FleetAuth.Core\obj\Debug\net9.0\FleetAuth.Core.csproj.CoreCompileInputs.cache
+C:\Users\vahde\FleetAuth\FleetAuth.Core\obj\Debug\net9.0\FleetAuth.Core.sourcelink.json
+C:\Users\vahde\FleetAuth\FleetAuth.Core\bin\Debug\net9.0\FleetAuth.Core.deps.json
+C:\Users\vahde\FleetAuth\FleetAuth.Core\bin\Debug\net9.0\FleetAuth.Core.dll
+C:\Users\vahde\FleetAuth\FleetAuth.Core\bin\Debug\net9.0\FleetAuth.Core.pdb
+C:\Users\vahde\FleetAuth\FleetAuth.Core\obj\Debug\net9.0\FleetAuth.Core.csproj.AssemblyReference.cache
+C:\Users\vahde\FleetAuth\FleetAuth.Core\obj\Debug\net9.0\FleetAuth.Core.dll
+C:\Users\vahde\FleetAuth\FleetAuth.Core\obj\Debug\net9.0\refint\FleetAuth.Core.dll
+C:\Users\vahde\FleetAuth\FleetAuth.Core\obj\Debug\net9.0\FleetAuth.Core.pdb
+C:\Users\vahde\FleetAuth\FleetAuth.Core\obj\Debug\net9.0\ref\FleetAuth.Core.dll
